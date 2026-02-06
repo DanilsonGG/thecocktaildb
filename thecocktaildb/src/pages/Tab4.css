@@ -1,0 +1,26 @@
+.ingredients-page {
+  padding: 10px;
+}
+
+h2 {
+  margin-bottom: 15px;
+  font-size: 20px;
+}
+
+ion-list ion-item {
+  margin-bottom: 10px;
+  align-items: center;
+}
+
+ion-thumbnail img {
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+ion-label {
+  font-size: 14px;
+  font-weight: bold;
+}
+

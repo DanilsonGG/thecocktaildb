@@ -1,0 +1,68 @@
+.cocktail-page {
+  padding: 10px;
+}
+
+.cocktail-search {
+  margin-bottom: 15px;
+}
+
+.cocktail-intro {
+  margin-bottom: 20px;
+}
+
+.cocktail-intro h2 {
+  font-size: 22px;
+  margin-bottom: 5px;
+}
+
+.cocktail-intro p {
+  font-size: 14px;
+  color: #555;
+}
+
+.cocktail-suggestions h3 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.cocktail-suggestions ion-item {
+  margin-bottom: 10px;
+}
+
+.cocktail-thumb img {
+  border-radius: 8px;
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+}
+
+.cocktail-title {
+  font-weight: bold;
+}
+
+.details-btn {
+  font-size: 12px;
+}
+.cocktail-intro {
+  margin-bottom: 20px;
+  text-align: center;      
+  display: flex;
+  flex-direction: column;
+  align-items: center;      
+  justify-content: center;  
+}
+
+.cocktail-intro h2 {
+  font-size: 22px;
+  margin-bottom: 5px;
+}
+
+.cocktail-intro p {
+  font-size: 14px;
+  color: #555;
+  max-width: 500px;         
+}
+
+
+
+

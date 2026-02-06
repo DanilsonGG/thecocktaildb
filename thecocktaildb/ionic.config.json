@@ -1,0 +1,7 @@
+{
+  "name": "thecocktaildb",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
